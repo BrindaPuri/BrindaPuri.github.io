@@ -1,0 +1,16 @@
+body {
+  background-color: #000000;
+}
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+h1{
+  font-family: 'League Spartan', sans-serif;
+  font-size: 81.7px;
+  color: white;
+  text-align: center;
+  padding-top: 257px;
+  padding-bottom: 258px;
+}
+/*Add a black background color to the top navigation*/
